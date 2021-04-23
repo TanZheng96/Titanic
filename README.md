@@ -1,10 +1,10 @@
 # Titanic
 TitanicProjectFromKaggle
 
-# Models:            | Logistic Regression,| K Nearst Neighbor,| Naive Bayes
-# Validation Results:| 0.771536            | 0.786517          | 0.711610
+#### Models:            | Logistic Regression,| K Nearst Neighbor,| Naive Bayes
+#### Validation Results:| 0.771536            | 0.786517          | 0.711610
 
-# Conclusion:
+#### Conclusion:
 KNN preformed slightly better than Logistic Regression model.
 I believe there will be some better models for this binary prediction(e.g.Random Forest).
 But I don't want to simply apply them because we have not cover them on class yet.
